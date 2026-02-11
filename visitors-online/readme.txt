@@ -1,9 +1,9 @@
 === Visitors Online by BestWebSoft ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: visitors online, visitors online plugin, count visitor, guests, guests counter, counter, visitors counter, add visitors counter, count, add guests counter, users online, guests online
+Tags: visitors online, visitors online plugin, count visitor, guests, guests counter
 Requires at least: 5.6
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.1.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
